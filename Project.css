@@ -1,8 +1,10 @@
 body{
   background-image: url("rec.jpg");
+  background-color: white;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .logo{
   padding-left: 47%;
   margin-bottom: 50%;
@@ -18,7 +20,7 @@ Label{
   Margin: 2px;
 }
 
-.Div{
+ .Div{
   color: #34433C;
   Font: calibre;
   Margin: 2px;

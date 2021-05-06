@@ -18,9 +18,18 @@ Label{
   Margin: 2px;
 }
 
-.selectDiv{
-  padding-left: 47%;
-  padding-top: 50%;
+.Div{
+  color: #34433C;
+  Font: calibre;
+  Margin: 2px;
+  border-top-left-radius: 25%;
+  border-top-right-radius: 25%;
+  border-bottom-left-radius: 25%;
+  border-bottom-right-radius: 25%;
+  Border: 1px; 
+  Border-style: solid;
+}
+
 }
 .header{
   margin-top: 5px;
